@@ -1,8 +1,10 @@
-# Health-Tracker-Database
+# Health Tracker Database
 The application of this database focuses on health tracking. 
 The database is comprised of data involving water intake history, weight history, exercise history, and meal history.
 
 This database was created using SQLite3.
+
+The .txt files contain the SQL statements to recreate the database (.db) file, create the tables, populate the tables, and select data from the tables. The SQL statements can be copy/pasted directly into your sqlite3.exe.
 
 # Database Requirements
 Consider a health tracker database where users input their daily exercise, meals, weight, and water intake. The data requirements are summarized as follows:
