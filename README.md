@@ -15,7 +15,7 @@ Entity Relationship Diagram for Database:
 # Database Relations
 All relations are in BCNF. Due to the database design each relation only has one functional dependency.
 
-# Example Select Statements Note
+# Example Select Statements
 Note: Due to the time sensitivity of using date(‘now’), which references the current day’s date, SQL statements will return nothing as the data is “out of date”. Currently, the data only goes up to the date 12/13/2021. However, these queries worked as of testing, 12/13/21. 
 
 # Lesson Learned
