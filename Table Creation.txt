@@ -1,7 +1,5 @@
 .open healthTracker.db
 
-
-
 create table USER(
 Username varchar(30) not null unique,
 Id int not null unique,
